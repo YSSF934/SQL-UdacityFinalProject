@@ -1,5 +1,5 @@
 # SQL-UdacityFinalProject
-#### Udiddit
+## Udiddit- A Social News Aggregator
 This is a **SQL**-based project, completed in terms of the requirements of **Udacity's** SQL nanodegree program. This repo contains all the **SQL** code (which consists of **DQL**, **DDL** and **DML**) necessary for the project. In order to prevent plagiarism, the final written **report** is not included within this repo.
 
 # Project Information
