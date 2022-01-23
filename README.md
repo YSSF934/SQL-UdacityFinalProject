@@ -1,5 +1,5 @@
 # Udiddit- A Social News Aggregator
-This is a **SQL**-based project, completed in terms of the requirements of **Udacity's** SQL nanodegree program. This repo contains all the **SQL** code (which consists of **DQL**, **DDL** and **DML**) necessary for the project. In order to prevent plagiarism, the final written **report** is not included within this repo.
+This is a **SQL**-based project, completed in terms of the requirements of **Udacity's** SQL nanodegree program. This repo contains all the **SQL** code (which consists of **DQL**, **DDL** and **DML**) necessary for the project. 
 
 ## Project Information 
 This project focuses on Database Management Systems, specifically on relational databases. You assume the role of a data engineer with 3 tasks to be fulfilled. As a data engineer, you are required to build the supporting data structures for **udiddit**, a social news aggregation site which is very similar to *reddit*.
