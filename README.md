@@ -11,3 +11,9 @@ The first task to be completed is the investigation of the existing data structu
 
 ## Contributions 
 **Udiddit** is a project that was completed as part of **Udacity's** *SQL* nanodegree program.
+
+### Project Task 2
+The second task featured a list of queries that Udiddit needs in order to support its website and administrative interface. Note that students were not required to produce the DQL for those queries. The queries were used to guide the design of the new database schema.  Normalization, various constraints, as well as indexes are used in the new database schema. Named constraints and indexes are applied to make the schema cleaner.
+
+### Project Task 3
+The final task was to write the DML to migrate the current data in bad_posts and bad_comments to my new database schema
